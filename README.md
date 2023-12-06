@@ -1,6 +1,6 @@
 # Restaurant Food Ordering App
 
-My first mobile app was created using Android Studio.
+My first mobile app created using Android Studio.
 
 
 ## Features
