@@ -24,3 +24,10 @@ Once an order is placed, users receive a confirmation message.
 
 ### 7. Order History
 Registered users can log in to the app to view their order history. This feature allows users to keep track of their previous orders, making it easier to reorder favorite dishes.
+
+
+![Screenshot_20231206_164559](https://github.com/NethmiSilva/Food-App/assets/91644460/3d65c1a2-d25a-404d-be19-4673caca5f96)
+![Screenshot_20231206_164629](https://github.com/NethmiSilva/Food-App/assets/91644460/1a4b0c2c-40b8-4224-9f4d-fc8eca22909c)
+![Screenshot_20231206_164723](https://github.com/NethmiSilva/Food-App/assets/91644460/3c914197-aa49-4cb8-ba3c-af935c02ea64)
+![Screenshot_20231206_164729](https://github.com/NethmiSilva/Food-App/assets/91644460/d8ea6b0c-6ac1-4073-b577-0d179e3e43b6)
+
